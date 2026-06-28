@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/focus-timer/static/css/main.ba1545ad.css",
+    "main.js": "/focus-timer/static/js/main.d75f1086.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/focus-timer/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/focus-timer/index.html",
+    "main.ba1545ad.css.map": "/focus-timer/static/css/main.ba1545ad.css.map",
+    "main.d75f1086.js.map": "/focus-timer/static/js/main.d75f1086.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/focus-timer/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1545ad.css",
+    "static/js/main.d75f1086.js"
+  ]
+}
